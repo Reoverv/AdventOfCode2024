@@ -1,1 +1,0 @@
-D:\OneDrive\ -\ De\ Haagse\ Hogeschool\Programming\ stuff\Rust\AdventOfCode2024\day4\target\debug\day4.exe: D:\OneDrive\ -\ De\ Haagse\ Hogeschool\Programming\ stuff\Rust\AdventOfCode2024\day4\src\main.rs
